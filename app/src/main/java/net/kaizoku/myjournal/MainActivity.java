@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
         builder.setNegativeButton("CANCEL", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
-                Toast.makeText(MainActivity.this, "Task cancelled", Toast.LENGTH_LONG).show();
+//                Toast.makeText(MainActivity.this, "Task cancelled", Toast.LENGTH_LONG).show();
             }
         });
         builder.show();

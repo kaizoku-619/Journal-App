@@ -93,7 +93,7 @@ public class NoteAdapter extends RecyclerView.Adapter<NoteViewHolder> {
         builder.setNegativeButton("CANCEL", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
-                Toast.makeText(context, "Task cancelled", Toast.LENGTH_LONG).show();
+//                Toast.makeText(context, "Task cancelled", Toast.LENGTH_LONG).show();
             }
         });
         builder.show();
