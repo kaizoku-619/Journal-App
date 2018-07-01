@@ -1,6 +1,7 @@
 #My journal
 
 This project is part of the Google Africa Scholarship challenge to  Android Dev Udacity Nano Degree.
+
 ##Application Feautres
 - Google SignIn
 - Data Presistence with SQLite
